@@ -1,0 +1,35 @@
+@media(min-width:360px){
+    .card-col{
+        width:100%;
+        padding: 10px;
+        text-align: center;
+    }
+    .card-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media(min-width:660px){
+    .card-col{
+        width:100%;
+        padding: 10px;
+        text-align: center;
+    }
+    .card-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media(min-width:960px){
+    .card-col{
+        width: 33.33%;
+        padding: 10px;
+        text-align: center;
+    }
+    .card-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

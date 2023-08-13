@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card-conatiner{
+    width: 90%;
+    margin: auto;
+}
+
+.card-card{
+    border: 1px solid;
+   padding-bottom: 10px;
+    background-color: aquamarine;
+}
+img{
+    width: 100%;
+}
+button{
+    padding: 5px 15px;
+    border: none;
+    background-color: rgb(121, 122, 124);
+    color: aliceblue;
+   
+}
+
+
